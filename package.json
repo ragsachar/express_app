@@ -1,0 +1,10 @@
+{
+  "name": "weather-app",
+  "description": "App To get the weather report of cities",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  }
+}
+
